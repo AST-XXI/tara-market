@@ -1,5 +1,5 @@
 // @TODO: Update this address to match your deployed TaraMarket contract!
-const contractAddress = "0x8CaBC612D0DEDfc95c544A3432cF77B7db4D0a7e";
+const contractAddress = "0x6Aa0bF3B9614B6607CaDd49869bd5cD4553E0325";
 
 const dApp = {
   ethEnabled: function() {
